@@ -91,7 +91,7 @@
 
 
 - title:     "PHP: The Right Way"
-  subtitle:  A Living Free Online Book
+  subtitle:  A Quick Reference for Best Practices, Coding Standards, and Links to Tutorials around the Web
   live:      http://www.phptherightway.com
   source:    https://github.com/codeguy/php-the-right-way
   thumbnail: php-the-right-way.png
