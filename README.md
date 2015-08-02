@@ -12,10 +12,9 @@
 
 ~~~
 - title:     football.db
-  subtitle:  free open public domain football data
+  subtitle:  Free Open Public Domain Football Data
   live:      http://openfootball.github.io
   source:    https://github.com/openfootball/openfootball.github.io
-  author:    Gerald Bauer et al
   thumbnail: openfootball.png
 ~~~
 

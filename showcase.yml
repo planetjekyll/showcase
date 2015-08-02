@@ -1,14 +1,86 @@
 #####################################################
 # Jekyll (Static Site) Showcase - Add Your Site!
 
+- title:     Tom Preston-Werner
+  subtitle:  Blogging Like a Hacker
+  live:      http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
+  source:    https://github.com/mojombo/mojombo.github.io
+  thumbnail: tom-preston-werner.png
+
+- title:     Jekyll
+  subtitle:  Simple, blog-aweere, static sites
+  live:      http://jekyllrb.com
+  source:    https://github.com/jekyll/jekyll/tree/master/site
+  thumbnail: jekyllrb.png
+
+- title:     Dr Jekyll's Themes 
+  subtitle:  Free Static Site Generator Theme Directory
+  live:      https://drjekyllthemes.github.io
+  source:    https://github.com/drjekyllthemes/drjekyllthemes.github.io
+  thumbnail: drjekyllthemes.png
+
+- title:     Planet Ruby
+  subtitle:  All the News About Ruby, JRuby, Opal, Jekyll, Sinatra, etc.
+  live:      https://planetruby.github.io
+  source:    https://github.com/planetruby/planetruby.github.io
+  thumbnail: planetruby.png
+
+
+- title:     Bootstrap
+  subtitle:  The World's Most Popular Mobile-First and Responsive Front-End Framework
+  live:      http://getbootstrap.com
+  source:    https://github.com/twbs/bootstrap/tree/master/docs
+  thumbnail: bootstrap.png
+
+- title:     Polymer
+  subtitle:  Build Modern Apps Using Web Components 
+  live:      https://polymer-project.org
+  source:    https://github.com/Polymer/docs
+  thumbnail: polymer-docs.png
+
+- title:     Planet Templates 
+  subtitle:  Free Planet News Reader Web Site 'n' Feed Templates
+  live:      http://planet-templates.github.io/gallery
+  source:    https://github.com/planet-templates/planet-templates.github.io
+  thumbnail: planet-templates.png
+
+
+- title:     Choose A License
+  subtitle:  What best describes your situation?
+  live:      http://choosealicense.com
+  source:    https://github.com/github/choosealicense.com
+  thumbnail: choosealicense.png
+
+- title:     GitHub and Government
+  subtitle:  Make government better, together. 
+  live:      https://government.github.com
+  source:    https://github.com/github/government.github.com
+  thumbnail: government-github.png
+
+
+
+- title:     Stack Exchange Blog
+  subtitle:  All Things About Stack Exchange (Development)
+  live:      http://blog.stackexchange.com/2015/07/how-we-built-our-blog
+  source:    https://github.com/StackExchange/stack-blog
+  thumbnail: blog-stackexchange.png
+
+- title:     PixelCog
+  subtitle:  Mike Greiling, Freelance Programmer, Consultant, and Entrepeneur
+  live:      http://pixelcog.com
+  source:    https://github.com/pixelcog/pixelcog.com
+  thumbnail: pixelcog.png
+
+
+- title:     Chip Shop
+  subtitle:  Build your Silicon Empire
+  live:      http://chipshopgame.com
+  source:    https://github.com/GregariousMammal/Chip-Shop
+  thumbnail: chipshopgame.png
+
 
 - title:     football.db
-  subtitle:  free open public domain football data
+  subtitle:  Free Open Public Domain Football Data
   live:      http://openfootball.github.io
   source:    https://github.com/openfootball/openfootball.github.io
-  author:    Gerald Bauer et al
   thumbnail: openfootball.png
-
-
-
-
