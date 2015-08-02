@@ -15,28 +15,40 @@
 
 - title:     Dr Jekyll's Themes 
   subtitle:  Free Static Site Generator Theme Directory
-  live:      https://drjekyllthemes.github.io
+  live:      http://drjekyllthemes.github.io
   source:    https://github.com/drjekyllthemes/drjekyllthemes.github.io
   thumbnail: drjekyllthemes.png
 
 - title:     Planet Ruby
   subtitle:  All the News About Ruby, JRuby, Opal, Jekyll, Sinatra, etc.
-  live:      https://planetruby.github.io
+  live:      http://planetruby.github.io
   source:    https://github.com/planetruby/planetruby.github.io
   thumbnail: planetruby.png
 
-
-- title:     Bootstrap
-  subtitle:  The World's Most Popular Mobile-First and Responsive Front-End Framework
-  live:      http://getbootstrap.com
-  source:    https://github.com/twbs/bootstrap/tree/master/docs
-  thumbnail: bootstrap.png
 
 - title:     Polymer
   subtitle:  Build Modern Apps Using Web Components 
   live:      https://polymer-project.org
   source:    https://github.com/Polymer/docs
   thumbnail: polymer-docs.png
+
+- title:     Facebook React
+  subtitle:  A JavaScript Library for Building User Interfaces
+  live:      http://facebook.github.io/react
+  source:    https://github.com/facebook/react/tree/master/docs
+  thumbnail: facebook-react.png
+
+- title:     Electron (Atom Shell)
+  subtitle:  Build Cross Platform Desktop Apps with Web Technologies
+  live:      http://electron.atom.io
+  source:    https://github.com/atom/electron.atom.io
+  thumbnail: electron.png
+
+- title:     Bootstrap
+  subtitle:  The World's Most Popular Mobile-First and Responsive Front-End Framework
+  live:      http://getbootstrap.com
+  source:    https://github.com/twbs/bootstrap/tree/master/docs
+  thumbnail: bootstrap.png
 
 - title:     Planet Templates 
   subtitle:  Free Planet News Reader Web Site 'n' Feed Templates
@@ -71,12 +83,30 @@
   source:    https://github.com/pixelcog/pixelcog.com
   thumbnail: pixelcog.png
 
+- title:     Ben Balter
+  subtitle:  Government Evangelist, Attorney, Open Source Developer
+  live:      http://ben.balter.com/2015/02/20/jekyll-collections
+  source:    https://github.com/benbalter/benbalter.github.com
+  thumbnail: ben-balter.png
 
-- title:     Chip Shop
-  subtitle:  Build your Silicon Empire
-  live:      http://chipshopgame.com
-  source:    https://github.com/GregariousMammal/Chip-Shop
-  thumbnail: chipshopgame.png
+
+- title:     "PHP: The Right Way"
+  subtitle:  A Living Free Online Book
+  live:      http://www.phptherightway.com
+  source:    https://github.com/codeguy/php-the-right-way
+  thumbnail: php-the-right-way.png
+
+- title:     Open Data Handbook v2
+  subtitle:  Guides, Case Studies and Resources for Government 'n' Civil Society on the What, Why 'n' How of Open Data
+  live:      http://opendatahandbook.org
+  source:    https://github.com/okfn/opendatahandbook
+  thumbnail: opendatahandbook.png
+
+- title:     The Free World Beer Book
+  subtitle:  Auto-Build Using Open Public Domain Beer, Brewery 'n' Brewpub Data (Work-in-Progress)
+  live:      http://openbeer.github.io/book/cz.html
+  source:    https://github.com/openbeer/book
+  thumbnail: openbeerbook.png
 
 
 - title:     football.db
@@ -84,3 +114,17 @@
   live:      http://openfootball.github.io
   source:    https://github.com/openfootball/openfootball.github.io
   thumbnail: openfootball.png
+
+- title:     football.db Database Schemata
+  subtitle:  Booklet for Tables, Views, Columns, and More (Auto-Build with schemadoc)
+  live:      http://openfootball.github.io/schema
+  source:    https://github.com/openfootball/schema
+  thumbnail: schemadoc.png
+
+
+- title:     Chip Shop
+  subtitle:  Build your Silicon Empire
+  live:      http://chipshopgame.com
+  source:    https://github.com/GregariousMammal/Chip-Shop
+  thumbnail: chipshopgame.png
+
