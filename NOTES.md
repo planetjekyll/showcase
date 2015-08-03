@@ -3,6 +3,11 @@
 ## New Sites to Add
 
 
+**Markdown Tutorial** by Garen Torikian
+
+- live: <http://markdowntutorial.com>
+- source: <https://github.com/gjtorikian/markdowntutorial.com>
+
 **Postgres Guide** by Craig Kerstiens
 
 - live:   <http://postgresguide.com>
