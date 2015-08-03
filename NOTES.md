@@ -5,6 +5,8 @@
 
 **Markdown Tutorial** by Garen Torikian
 
+Lessons to help guide new writers into Markdown
+
 - live: <http://markdowntutorial.com>
 - source: <https://github.com/gjtorikian/markdowntutorial.com>
 
