@@ -13,7 +13,7 @@
   source:    https://github.com/jekyll/jekyll/tree/master/site
   thumbnail: jekyllrb.png
 
-- title:     Dr Jekyll's Themes 
+- title:     Dr Jekyll's Themes
   subtitle:  Free Static Site Generator Theme Directory
   live:      http://drjekyllthemes.github.io
   source:    https://github.com/drjekyllthemes/drjekyllthemes.github.io
@@ -27,7 +27,7 @@
 
 
 - title:     Polymer
-  subtitle:  Build Modern Apps Using Web Components 
+  subtitle:  Build Modern Apps Using Web Components
   live:      https://polymer-project.org
   source:    https://github.com/Polymer/docs
   thumbnail: polymer-docs.png
@@ -50,7 +50,7 @@
   source:    https://github.com/twbs/bootstrap/tree/master/docs
   thumbnail: bootstrap.png
 
-- title:     Planet Templates 
+- title:     Planet Templates
   subtitle:  Free Planet News Reader Web Site 'n' Feed Templates
   live:      http://planet-templates.github.io/gallery
   source:    https://github.com/planet-templates/planet-templates.github.io
@@ -64,7 +64,7 @@
   thumbnail: choosealicense.png
 
 - title:     GitHub and Government
-  subtitle:  Make government better, together. 
+  subtitle:  Make government better, together.
   live:      https://government.github.com
   source:    https://github.com/github/government.github.com
   thumbnail: government-github.png
@@ -128,3 +128,8 @@
   source:    https://github.com/GregariousMammal/Chip-Shop
   thumbnail: chipshopgame.png
 
+- title:     Mearso
+  subtitle:  Mainly drawings and sketchnotes
+  live:      http://mearso.co/uk
+  source:    https://github.com/kjmears/kjmears.github.io
+  thumbnail: mearso.png
