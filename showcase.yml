@@ -133,3 +133,9 @@
   live:      http://mearso.co.uk
   source:    https://github.com/kjmears/kjmears.github.io
   thumbnail: mearso.png
+
+- title:     Madhur Ahuja's Personal Site
+  subtitle:  Responsive site with Blog, Project Showcase and Twitter Bootstrap integration
+  live:      http://madhur.co.in
+  source:    https://github.com/madhur/madhur.github.com
+  thumbnail: madhursite.png
