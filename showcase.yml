@@ -8,7 +8,7 @@
   thumbnail: tom-preston-werner.png
 
 - title:     Jekyll
-  subtitle:  Simple, blog-aweere, static sites
+  subtitle:  Simple, blog-aware, static sites
   live:      http://jekyllrb.com
   source:    https://github.com/jekyll/jekyll/tree/master/site
   thumbnail: jekyllrb.png
