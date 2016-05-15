@@ -139,3 +139,9 @@
   live:      http://madhur.co.in
   source:    https://github.com/madhur/madhur.github.com
   thumbnail: madhursite.png
+
+- title:     ruby-lang.org
+  subtitle:  Official Site of the Ruby Programming Language
+  live:      https://www.ruby-lang.org/
+  source:    https://github.com/ruby/www.ruby-lang.org
+  thumbnail: ruby-lang.png
