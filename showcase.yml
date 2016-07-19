@@ -145,3 +145,9 @@
   live:      https://www.ruby-lang.org/
   source:    https://github.com/ruby/www.ruby-lang.org
   thumbnail: ruby-lang.png
+
+- title:     Labrador
+  subtitle:  This theme was built to present a little bit about of some professional profile
+  live:      http://donini.me/
+  source:    https://github.com/donini/labrador-jekyll-theme
+  thumbnail: labrador-jekyll-theme-thumb.jpg
