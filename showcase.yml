@@ -19,18 +19,23 @@
   source:    https://github.com/drjekyllthemes/drjekyllthemes.github.io
   thumbnail: drjekyllthemes.png
 
+- title:     Ruby Language
+  subtitle:  Official Site of the Ruby Programming Language
+  live:      https://www.ruby-lang.org
+  source:    https://github.com/ruby/www.ruby-lang.org
+  thumbnail: ruby-lang.png
+
+- title:     Riding Rails
+  subtitle:  Official Ruby on Rails Weblog
+  live:      http://weblog.rubyonrails.org
+  source:    https://github.com/rails/weblog
+  thumbnail: rails.png
+
 - title:     Planet Ruby
   subtitle:  All the News About Ruby, JRuby, Opal, Jekyll, Sinatra, etc.
   live:      http://planetruby.github.io
   source:    https://github.com/planetruby/planetruby.github.io
   thumbnail: planetruby.png
-
-
-- title:     Polymer
-  subtitle:  Build Modern Apps Using Web Components
-  live:      https://polymer-project.org
-  source:    https://github.com/Polymer/docs
-  thumbnail: polymer-docs.png
 
 - title:     Facebook React
   subtitle:  A JavaScript Library for Building User Interfaces
@@ -38,10 +43,16 @@
   source:    https://github.com/facebook/react/tree/master/docs
   thumbnail: facebook-react.png
 
-- title:     Electron (Atom Shell)
+- title:     Yarn Package Manager
+  subtitle:  Fast, Reliable, and Secure Dependency Management
+  live:      https://yarnpkg.com
+  source:    https://github.com/yarnpkg/website
+  thumbnail: yarnpkg.png
+
+- title:     Electron
   subtitle:  Build Cross Platform Desktop Apps with Web Technologies
   live:      http://electron.atom.io
-  source:    https://github.com/atom/electron.atom.io
+  source:    https://github.com/electron/electron.atom.io
   thumbnail: electron.png
 
 - title:     Bootstrap
@@ -56,6 +67,11 @@
   source:    https://github.com/planet-templates/planet-templates.github.io
   thumbnail: planet-templates.png
 
+- title:     "Docker: Welcome to the Docs"
+  subtitle:  "Build, Ship, Run. An open platform for distributed apps for devs and sysadmins"
+  live:      https://docs.docker.com
+  source:    https://github.com/docker/docker.github.io
+  thumbnail: docker.png
 
 - title:     Choose A License
   subtitle:  What best describes your situation?
@@ -69,7 +85,11 @@
   source:    https://github.com/github/government.github.com
   thumbnail: government-github.png
 
-
+- title:     Travis Foundation
+  subtitle:  Working towards a better open source community
+  live:      http://foundation.travis-ci.org
+  source:    https://github.com/travis-ci/travis-foundation
+  thumbnail: travisfoundation.png
 
 - title:     Stack Exchange Blog
   subtitle:  All Things About Stack Exchange (Development)
@@ -96,6 +116,24 @@
   source:    https://github.com/codeguy/php-the-right-way
   thumbnail: php-the-right-way.png
 
+- title:     Elixir School
+  subtitle:  Lessons about the Elixir programming language
+  live:      https://elixirschool.com
+  source:    https://github.com/doomspork/elixir-school
+  thumbnail: elixirschool.png
+
+- title:     Swift Weekly Brief
+  subtitle:  A community-driven weekly newsletter about Swift.org.
+  live:      https://swiftweekly.github.io
+  source:    https://github.com/SwiftWeekly/swiftweekly.github.io
+  thumbnail: swiftweekly.png
+
+- title:     "csv,conf,v2"
+  subtitle:  "A community conference for data makers everywhere, again!"
+  live:      http://csvconf.com
+  source:    https://github.com/csvconf/csvconf.com
+  thumbnail: csvconfv2.png
+
 - title:     Open Data Handbook v2
   subtitle:  Guides, Case Studies and Resources for Government 'n' Civil Society on the What, Why 'n' How of Open Data
   live:      http://opendatahandbook.org
@@ -107,7 +145,6 @@
   live:      http://openbeer.github.io/book/cz.html
   source:    https://github.com/openbeer/book
   thumbnail: openbeerbook.png
-
 
 - title:     football.db
   subtitle:  Free Open Public Domain Football Data
@@ -121,27 +158,27 @@
   source:    https://github.com/openfootball/schema
   thumbnail: schemadoc.png
 
+- title:     Climate Treaty Texts from Paris COP21
+  subtitle:  "Making the texts of the international climate change conference easy to find, understand and use"
+  live:      http://cop21.okfnlabs.org
+  source:    https://github.com/okfn/cop21
+  thumbnail: cop21.png
+
 
 - title:     Chip Shop
-  subtitle:  Build your Silicon Empire
+  subtitle:  Build your Silicon Empire (Board Game)
   live:      http://chipshopgame.com
   source:    https://github.com/GregariousMammal/Chip-Shop
   thumbnail: chipshopgame.png
 
-- title:     Mearso
-  subtitle:  Mainly drawings and sketchnotes
+- title:     Raw Funk Maharishi
+  subtitle:  Bringing the weird grooves since 2013 (Music Band)
+  live:      http://rawfunkmaharishi.uk
+  source:    https://github.com/rawfunkmaharishi/rawfunkmaharishi.github.io
+  thumbnail: rawfunkmaharishi.png
+
+- title:     Mearso - Kevin Mears
+  subtitle:  Drawings and Sketchnotes
   live:      http://mearso.co.uk
   source:    https://github.com/kjmears/kjmears.github.io
   thumbnail: mearso.png
-
-- title:     Madhur Ahuja's Personal Site
-  subtitle:  Responsive site with Blog, Project Showcase and Twitter Bootstrap integration
-  live:      http://madhur.co.in
-  source:    https://github.com/madhur/madhur.github.com
-  thumbnail: madhursite.png
-
-- title:     ruby-lang.org
-  subtitle:  Official Site of the Ruby Programming Language
-  live:      https://www.ruby-lang.org/
-  source:    https://github.com/ruby/www.ruby-lang.org
-  thumbnail: ruby-lang.png

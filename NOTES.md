@@ -29,17 +29,17 @@ Beautiful and inspiring uses of Bootstrap
 
 better yaml keys e.g. change
 
-~~~
+```
 live:
 source:
-~~~
+```
 
-to 
+to
 
-~~~
+```
 live_url:
 source_url:
-~~~
+```
 
 Why? Why not?   Plus: Clearer in liquid templates   -- Minus: More typing in yaml (e.g. _url)
 
@@ -51,6 +51,3 @@ change (rename) thumbnails folder to:
 - /screenshoots
 
 Why? Why not?
-
-
-
