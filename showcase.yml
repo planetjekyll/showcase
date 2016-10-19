@@ -182,3 +182,10 @@
   live:      http://mearso.co.uk
   source:    https://github.com/kjmears/kjmears.github.io
   thumbnail: mearso.png
+
+- title:     Nicolas Hoizey
+  subtitle:  Recueil de créations et réflexions sur des sujets très variés, notamment la photo et le Web.
+  live:      https://nicolas-hoizey.com
+  source:    https://github.com/nhoizey/nicolas-hoizey.com
+  thumbnail: nicolas-hoizey.png
+  
