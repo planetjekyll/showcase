@@ -61,6 +61,12 @@
   source:    https://github.com/twbs/bootstrap/tree/master/docs
   thumbnail: bootstrap.png
 
+- title:     Boostrap Expo
+  subtitle:  Beautiful and inspiring uses of Bootstrap
+  live:      http://expo.getbootstrap.com
+  source:    https://github.com/twbs/bootstrap-expo
+  thumbnail: bootstrapexpo.png
+
 - title:     Planet Templates
   subtitle:  Free Planet News Reader Web Site 'n' Feed Templates
   live:      http://planet-templates.github.io/gallery
@@ -116,11 +122,24 @@
   source:    https://github.com/codeguy/php-the-right-way
   thumbnail: php-the-right-way.png
 
+- title:     Postgres Guide
+  subtitle:  Guide to the world's most advanced open source database
+  live:      http://postgresguide.com
+  source:    https://github.com/craigkerstiens/postgresguide.com
+  thumbnail: postgresguide.png
+
 - title:     Elixir School
   subtitle:  Lessons about the Elixir programming language
   live:      https://elixirschool.com
   source:    https://github.com/doomspork/elixir-school
   thumbnail: elixirschool.png
+
+- title:     Markdown Tutorial
+  subtitle:  Lessons to help guide new writers into Markdown
+  live:      http://markdowntutorial.com
+  source:    https://github.com/gjtorikian/markdowntutorial.com
+  thumbnail: markdowntutorial.png
+
 
 - title:     Swift Weekly Brief
   subtitle:  A community-driven weekly newsletter about Swift.org.
@@ -176,16 +195,3 @@
   live:      http://rawfunkmaharishi.uk
   source:    https://github.com/rawfunkmaharishi/rawfunkmaharishi.github.io
   thumbnail: rawfunkmaharishi.png
-
-- title:     Mearso - Kevin Mears
-  subtitle:  Drawings and Sketchnotes
-  live:      http://mearso.co.uk
-  source:    https://github.com/kjmears/kjmears.github.io
-  thumbnail: mearso.png
-
-- title:     Nicolas Hoizey
-  subtitle:  Recueil de créations et réflexions sur des sujets très variés, notamment la photo et le Web.
-  live:      https://nicolas-hoizey.com
-  source:    https://github.com/nhoizey/nicolas-hoizey.com
-  thumbnail: nicolas-hoizey.png
-  

@@ -1,0 +1,9 @@
+####
+# attic -- No longer using Jekyll - old showcase sites
+#
+
+- title:     Polymer
+  subtitle:  Build Modern Apps Using Web Components
+  live:      https://polymer-project.org
+  source:    https://github.com/Polymer/docs      ## switch to gulp (node.js)
+  thumbnail: polymer-docs.png

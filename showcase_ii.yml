@@ -1,23 +1,26 @@
 #####################################################
 # Jekyll (Static Site) Showcase Continued
 #
+#   see the more page
 
-###
-# Upcoming, Add - why? why not?
 
-- title:     Madhur Ahuja's Personal Site
-  subtitle:  Responsive site with Blog, Project Showcase and Twitter Bootstrap integration
+##
+##  Personal Sites / Blogs
+
+- title:     Kevin Mears
+  subtitle:  Personal Website - Mostly Drawings and Sketchnotes
+  live:      http://mearso.co.uk
+  source:    https://github.com/kjmears/kjmears.github.io
+  thumbnail: mearso.png
+
+- title:     Madhur Ahuja
+  subtitle:  Personal Website - Responsive with Blog, Project Showcase and Twitter Bootstrap Integration
   live:      http://madhur.co.in
   source:    https://github.com/madhur/madhur.github.com
   thumbnail: madhursite.png
 
-
-
-####
-# No longer using Jekyll - old showcases
-
-- title:     Polymer
-  subtitle:  Build Modern Apps Using Web Components
-  live:      https://polymer-project.org
-  source:    https://github.com/Polymer/docs      ## switch to gulp (node.js)
-  thumbnail: polymer-docs.png
+- title:     Nicolas Hoizey (fr)       ## try emjoij support with :fr: why? why not?
+  subtitle:  Personal Website (in French / Français)
+  live:      https://nicolas-hoizey.com
+  source:    https://github.com/nhoizey/nicolas-hoizey.com
+  thumbnail: nicolas-hoizey.png

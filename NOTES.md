@@ -3,6 +3,11 @@
 ## New Sites to Add
 
 
+<!-- add new sites to add here -->
+
+
+## Done - Sites Added
+
 **Markdown Tutorial** by Garen Torikian
 
 Lessons to help guide new writers into Markdown
@@ -26,6 +31,9 @@ Beautiful and inspiring uses of Bootstrap
 
 
 ## Todos / Ideas
+
+- [ ] add the more page for personal site (see showcase_ii.yml)
+
 
 better yaml keys e.g. change
 
