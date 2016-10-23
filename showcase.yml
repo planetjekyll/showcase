@@ -6,30 +6,35 @@
   live:      http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
   source:    https://github.com/mojombo/mojombo.github.io
   thumbnail: tom-preston-werner.png
+  tags:      [blog, person]
 
 - title:     Jekyll
   subtitle:  Simple, blog-aware, static sites
   live:      http://jekyllrb.com
   source:    https://github.com/jekyll/jekyll/tree/master/site
   thumbnail: jekyllrb.png
+  tags:      [project, docs]
 
 - title:     Dr Jekyll's Themes
   subtitle:  Free Static Site Generator Theme Directory
   live:      http://drjekyllthemes.github.io
   source:    https://github.com/drjekyllthemes/drjekyllthemes.github.io
   thumbnail: drjekyllthemes.png
+  tags:      [portfolio, gallery, themes, catalog]
 
 - title:     Ruby Language
   subtitle:  Official Site of the Ruby Programming Language
   live:      https://www.ruby-lang.org
   source:    https://github.com/ruby/www.ruby-lang.org
   thumbnail: ruby-lang.png
+  tags:      [project, programming]
 
 - title:     Riding Rails
   subtitle:  Official Ruby on Rails Weblog
   live:      http://weblog.rubyonrails.org
   source:    https://github.com/rails/weblog
   thumbnail: rails.png
+  tags:      [blog, programming]
 
 - title:     Planet Ruby
   subtitle:  All the News About Ruby, JRuby, Opal, Jekyll, Sinatra, etc.
@@ -66,12 +71,35 @@
   live:      http://expo.getbootstrap.com
   source:    https://github.com/twbs/bootstrap-expo
   thumbnail: bootstrapexpo.png
+  tags:      [shocase, catalog]
 
 - title:     Planet Templates
   subtitle:  Free Planet News Reader Web Site 'n' Feed Templates
   live:      http://planet-templates.github.io/gallery
   source:    https://github.com/planet-templates/planet-templates.github.io
   thumbnail: planet-templates.png
+
+- title:     "Zen of Book Designs / Epsilon (Franklin)"
+  subtitle:  "One Book, Many Designs - Add Your Design!"
+  live:      http://bookdesigns.github.io/book-epsilon
+  source:    https://github.com/bookdesigns/book-epsilon
+  thumbnail: zenofbookdesigns-epsilon.png
+  tags:      [books]
+
+- title:     Font Library
+  subtitle:  "Over 800 Google Fonts, Let's Organize Them!"
+  live:      http://katydecorah.com/font-library
+  source:    https://github.com/katydecorah/font-library
+  thumbnail: fontlibrary.png
+  tags:      [typograhpy,fonts,catalog]
+
+- title:     Brick
+  subtitle:  Google Web Fonts Alternative
+  live:      http://brick.im
+  source:    https://github.com/alfredxing/brick
+  thumbnail: brick.png
+  tags:      [typograhpy,fonts,catalog]
+
 
 - title:     "Docker: Welcome to the Docs"
   subtitle:  "Build, Ship, Run. An open platform for distributed apps for devs and sysadmins"
@@ -90,30 +118,35 @@
   live:      https://government.github.com
   source:    https://github.com/github/government.github.com
   thumbnail: government-github.png
+  tags:      [catalog]
 
 - title:     Travis Foundation
   subtitle:  Working towards a better open source community
   live:      http://foundation.travis-ci.org
   source:    https://github.com/travis-ci/travis-foundation
   thumbnail: travisfoundation.png
+  tags:      [org, nonprofit]
 
 - title:     Stack Exchange Blog
   subtitle:  All Things About Stack Exchange (Development)
   live:      http://blog.stackexchange.com/2015/07/how-we-built-our-blog
   source:    https://github.com/StackExchange/stack-blog
   thumbnail: blog-stackexchange.png
+  tags:      [blog, company]
 
 - title:     PixelCog
   subtitle:  Mike Greiling, Freelance Programmer, Consultant, and Entrepeneur
   live:      http://pixelcog.com
   source:    https://github.com/pixelcog/pixelcog.com
   thumbnail: pixelcog.png
+  tags:      [agency, small business]
 
 - title:     Ben Balter
   subtitle:  Government Evangelist, Attorney, Open Source Developer
   live:      http://ben.balter.com/2015/02/20/jekyll-collections
   source:    https://github.com/benbalter/benbalter.github.com
   thumbnail: ben-balter.png
+  tags:      [blog, person]
 
 
 - title:     "PHP: The Right Way"
@@ -121,61 +154,91 @@
   live:      http://www.phptherightway.com
   source:    https://github.com/codeguy/php-the-right-way
   thumbnail: php-the-right-way.png
+  tags:      [books, programming]
 
 - title:     Postgres Guide
   subtitle:  Guide to the world's most advanced open source database
   live:      http://postgresguide.com
   source:    https://github.com/craigkerstiens/postgresguide.com
   thumbnail: postgresguide.png
+  tags:      [books, database]
 
 - title:     Elixir School
   subtitle:  Lessons about the Elixir programming language
   live:      https://elixirschool.com
   source:    https://github.com/doomspork/elixir-school
   thumbnail: elixirschool.png
+  tags:      [books, lessons, programming]
+
+- title:     Hyde Press Bookshelf
+  subtitle:  "Free Books about Jekyll 'n' Friends"
+  live:      http://hydepress.github.io
+  source:    https://github.com/hydepress/hydepress.github.io
+  thumbnail: hydepress.png
+  tags:      [books]
+
+- title:     World Classics
+  subtitle:  "The World's Greatest (Literature) Books in .txt"
+  live:      http://worldclassics.github.io/dr-jekyll-and-mr-hyde
+  source:    https://github.com/worldclassics/worldclassics.github.io
+  thumbnail: worldclassics.png
+  tags:      [books, literature, classics]
 
 - title:     Markdown Tutorial
   subtitle:  Lessons to help guide new writers into Markdown
   live:      http://markdowntutorial.com
   source:    https://github.com/gjtorikian/markdowntutorial.com
   thumbnail: markdowntutorial.png
-
+  tags:      [learning, lessons, markdown, writing]
 
 - title:     Swift Weekly Brief
   subtitle:  A community-driven weekly newsletter about Swift.org.
   live:      https://swiftweekly.github.io
   source:    https://github.com/SwiftWeekly/swiftweekly.github.io
   thumbnail: swiftweekly.png
+  tags:      [newsletter, programming]
 
 - title:     "csv,conf,v2"
   subtitle:  "A community conference for data makers everywhere, again!"
   live:      http://csvconf.com
   source:    https://github.com/csvconf/csvconf.com
   thumbnail: csvconfv2.png
+  tags:      [conference]
 
 - title:     Open Data Handbook v2
   subtitle:  Guides, Case Studies and Resources for Government 'n' Civil Society on the What, Why 'n' How of Open Data
   live:      http://opendatahandbook.org
   source:    https://github.com/okfn/opendatahandbook
   thumbnail: opendatahandbook.png
+  tags:      [books, opendata]
 
 - title:     The Free World Beer Book
   subtitle:  Auto-Build Using Open Public Domain Beer, Brewery 'n' Brewpub Data (Work-in-Progress)
   live:      http://openbeer.github.io/book/cz.html
   source:    https://github.com/openbeer/book
   thumbnail: openbeerbook.png
+  tags:      [books, opendata]
+
+- title:     Static Map Maker
+  subtitle:  "Bing, Google, Mapbox, 'n' More"
+  live:      http://staticmapmaker.com
+  source:    https://github.com/katydecorah/staticmapmaker
+  thumbnail: staticmapmapker.png
+  tags:      [maps, wizards]
 
 - title:     football.db
   subtitle:  Free Open Public Domain Football Data
   live:      http://openfootball.github.io
   source:    https://github.com/openfootball/openfootball.github.io
   thumbnail: openfootball.png
+  tags:      [project, opendata]
 
 - title:     football.db Database Schemata
   subtitle:  Booklet for Tables, Views, Columns, and More (Auto-Build with schemadoc)
   live:      http://openfootball.github.io/schema
   source:    https://github.com/openfootball/schema
   thumbnail: schemadoc.png
+  tags:      [database, schema, docs]
 
 - title:     Climate Treaty Texts from Paris COP21
   subtitle:  "Making the texts of the international climate change conference easy to find, understand and use"
@@ -189,9 +252,18 @@
   live:      http://chipshopgame.com
   source:    https://github.com/GregariousMammal/Chip-Shop
   thumbnail: chipshopgame.png
+  tags:      [board game, print]
 
 - title:     Raw Funk Maharishi
   subtitle:  Bringing the weird grooves since 2013 (Music Band)
   live:      http://rawfunkmaharishi.uk
   source:    https://github.com/rawfunkmaharishi/rawfunkmaharishi.github.io
   thumbnail: rawfunkmaharishi.png
+  tags:      [music, audio]
+
+- title:     Octopod
+  subtitle:  Podcast Publishing Extension
+  live:      https://jekyll-octopod.github.io
+  source:    https://github.com/jekyll-octopod/jekyll-octopod.github.io.source
+  thumbnail: octopod.png
+  tags:      [podcast, audio]
