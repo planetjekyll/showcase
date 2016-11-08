@@ -42,6 +42,13 @@
   source:    https://github.com/planetruby/planetruby.github.io
   thumbnail: planetruby.png
 
+- title:     Elixir Language
+  subtitle:  Official Site of the Elixir Programming Language
+  live:      http://elixir-lang.org
+  source:    https://github.com/elixir-lang/elixir-lang.github.com
+  thumbnail: elixirlang.png
+  tags:      [project, programming, blog, learning, tutorial]
+
 - title:     Facebook React
   subtitle:  A JavaScript Library for Building User Interfaces
   live:      http://facebook.github.io/react
@@ -218,6 +225,24 @@
   source:    https://github.com/openbeer/book
   thumbnail: openbeerbook.png
   tags:      [books, opendata]
+
+- title:     analytics.usa.gov
+  subtitle:  "The US government's web traffic"
+  live:      https://analytics.usa.gov
+  source:    https://github.com/18F/analytics.usa.gov
+  thumbnail: analyticsusagov.png
+
+- title:     JKAN
+  subtitle:  "A lightweight, backend-free open data portal"
+  live:      https://jkan.io
+  source:    https://github.com/timwis/jkan
+  thumbnail: jkan.png
+
+- title:     World Factbook
+  subtitle:  "267 Country Profiles (Incl. Flags 'n' Maps)"
+  thumbnail: factbook.png
+  live:      http://factbook.github.io/au
+  source:    https://github.com/factbook/factbook.github.io
 
 - title:     Static Map Maker
   subtitle:  "Bing, Google, Mapbox, 'n' More"
