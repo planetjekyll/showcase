@@ -177,6 +177,20 @@
   thumbnail: elixirschool.png
   tags:      [books, lessons, programming]
 
+- title:     MarkSheet
+  subtitle:  Free HTML & CSS Tutorial (4 Sections, 9 Chapters, 50 Lessons)
+  live:      http://marksheet.io
+  source:    https://github.com/jgthms/marksheet
+  thumbnail: marksheet.png
+  tags:      [books, course, lessons, design]
+
+- title:     CSS Reference
+  subtitle:  Free visual guide to the most popular CSS properties
+  live:      http://cssreference.io
+  source:    https://github.com/jgthms/css-reference
+  thumbnail: cssreference.png
+  tags:      [books, visual, design]
+
 - title:     Hyde Press Bookshelf
   subtitle:  "Free Books about Jekyll 'n' Friends"
   live:      http://hydepress.github.io
