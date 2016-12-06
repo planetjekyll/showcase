@@ -2,6 +2,9 @@
 
 ## New Sites to Add
 
+- [ ] add neovim.io; see https://github.com/neovim/neovim.github.io
+- [ ] add viennahtml
+
 
 <!-- add new sites to add here -->
 
