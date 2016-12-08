@@ -3,6 +3,7 @@
 ## New Sites to Add
 
 - [ ] add neovim.io; see https://github.com/neovim/neovim.github.io
+- [ ] add babeljs.io; see https://github.com/babel/babel.github.io
 - [ ] add viennahtml
 
 
