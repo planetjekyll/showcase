@@ -49,6 +49,13 @@
   thumbnail: elixirlang.png
   tags:      [project, programming, blog, learning, tutorial]
 
+- title:     Neovim 
+  subtitle:  Literally the future of vim
+  live:      https://neovim.io
+  source:    https://github.com/neovim/neovim.github.io
+  thumbnail: neovim.png 
+  tags:      [project]
+
 - title:     Facebook React
   subtitle:  A JavaScript Library for Building User Interfaces
   live:      http://facebook.github.io/react
@@ -66,6 +73,20 @@
   live:      http://electron.atom.io
   source:    https://github.com/electron/electron.atom.io
   thumbnail: electron.png
+
+- title:     Leaflet 
+  subtitle:  A JavaScript library for interactive maps
+  live:      http://leafletjs.com
+  source:    https://github.com/Leaflet/Leaflet/tree/master/docs
+  thumbnail: leaflet.png
+  tags:      [project,documentation,blog]
+
+- title:     Babel
+  subtitle:  A JavaScript compiler. Use next generation JavaScript, today 
+  live:      https://babeljs.io
+  source:    https://github.com/babel/babel.github.io
+  thumbnail: babel.png
+  tags:      [project,documentation,blog]
 
 - title:     Bootstrap
   subtitle:  The World's Most Popular Mobile-First and Responsive Front-End Framework
@@ -184,12 +205,21 @@
   thumbnail: marksheet.png
   tags:      [books, course, lessons, design]
 
+- title:     HTML Reference
+  subtitle:  "Learn by example: free guide to HTML"
+  live:      http://htmlreference.io
+  source:    https://github.com/jgthms/html-reference
+  thumbnail: htmlreference.png
+  tags:      [reference]
+
 - title:     CSS Reference
   subtitle:  Free visual guide to the most popular CSS properties
   live:      http://cssreference.io
   source:    https://github.com/jgthms/css-reference
   thumbnail: cssreference.png
   tags:      [books, visual, design]
+
+
 
 - title:     Hyde Press Bookshelf
   subtitle:  "Free Books about Jekyll 'n' Friends"
@@ -219,12 +249,40 @@
   thumbnail: swiftweekly.png
   tags:      [newsletter, programming]
 
+####
+#  meetups, events, camps
+
+- title:     Vienna.html
+  subtitle:  (Static) Website Meetup in Austria
+  live:      http://viennahtml.github.io
+  source:    https://github.com/viennahtml/viennahtml.github.io
+  thumbnail: viennahtml.png
+  tags:      [meetup,group,members]
+
+- title:     Ruby Habits Vienna
+  subtitle:  Learning Group in Austria
+  live:      http://rubyhabits.github.io
+  source:    https://github.com/RubyHabits/rubyhabits.github.io
+  thumbnail: rubyhabits.png
+  tags:      [meetup,group,members]
+
 - title:     "csv,conf,v2"
   subtitle:  "A community conference for data makers everywhere, again!"
   live:      http://csvconf.com
   source:    https://github.com/csvconf/csvconf.com
   thumbnail: csvconfv2.png
   tags:      [conference]
+
+
+############
+# books, guides
+
+- title:     Open Source Guides
+  subtitle:  Learn how to launch and grow your project
+  live:      https://opensource.guide
+  source:    https://github.com/github/open-source-guide
+  thumbnail: opensourceguides.png
+  tags:      [guides]
 
 - title:     Open Data Handbook v2
   subtitle:  Guides, Case Studies and Resources for Government 'n' Civil Society on the What, Why 'n' How of Open Data
@@ -293,12 +351,22 @@
   thumbnail: chipshopgame.png
   tags:      [board game, print]
 
+##########
+# music, audio
+
 - title:     Raw Funk Maharishi
   subtitle:  Bringing the weird grooves since 2013 (Music Band)
   live:      http://rawfunkmaharishi.uk
   source:    https://github.com/rawfunkmaharishi/rawfunkmaharishi.github.io
   thumbnail: rawfunkmaharishi.png
   tags:      [music, audio]
+
+- title:     Scorsese - Audio (Museum) Guide
+  subtitle:  Australian Centre for the Moving Image (ACMI)
+  live:      https://guides.acmi.net.au/scorsese/welcome
+  source:    https://github.com/ACMILabs/static-museum-audio-guide
+  thumbnail: audioguide.png
+  tags:      [museum,guide,audio]
 
 - title:     Octopod
   subtitle:  Podcast Publishing Extension
