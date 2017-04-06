@@ -249,6 +249,13 @@
   thumbnail: swiftweekly.png
   tags:      [newsletter, programming]
 
+- title:     The #GoWebMasters Slack Group 
+  subtitle:  An online community tying together a diverse and passionate group of web technologists.
+  live:      https://www.gowebmasters.club/
+  source:    https://github.com/GoWebMasters/gowebmasters.github.io
+  thumbnail: gowebmasters.png
+  tags:      [chat, webmasters]
+
 ####
 #  meetups, events, camps
 
