@@ -49,11 +49,11 @@
   thumbnail: elixirlang.png
   tags:      [project, programming, blog, learning, tutorial]
 
-- title:     Neovim 
+- title:     Neovim
   subtitle:  Literally the future of vim
   live:      https://neovim.io
   source:    https://github.com/neovim/neovim.github.io
-  thumbnail: neovim.png 
+  thumbnail: neovim.png
   tags:      [project]
 
 - title:     Facebook React
@@ -74,7 +74,7 @@
   source:    https://github.com/electron/electron.atom.io
   thumbnail: electron.png
 
-- title:     Leaflet 
+- title:     Leaflet
   subtitle:  A JavaScript library for interactive maps
   live:      http://leafletjs.com
   source:    https://github.com/Leaflet/Leaflet/tree/master/docs
@@ -82,7 +82,7 @@
   tags:      [project,documentation,blog]
 
 - title:     Babel
-  subtitle:  A JavaScript compiler. Use next generation JavaScript, today 
+  subtitle:  A JavaScript compiler. Use next generation JavaScript, today
   live:      https://babeljs.io
   source:    https://github.com/babel/babel.github.io
   thumbnail: babel.png
@@ -249,12 +249,18 @@
   thumbnail: swiftweekly.png
   tags:      [newsletter, programming]
 
-- title:     The #GoWebMasters Slack Group 
+- title:     The #GoWebMasters Slack Group
   subtitle:  An online community tying together a diverse and passionate group of web technologists.
   live:      https://www.gowebmasters.club/
   source:    https://github.com/GoWebMasters/gowebmasters.github.io
   thumbnail: gowebmasters.png
   tags:      [chat, webmasters]
+
+- title:     ePages Developer Portal
+  subtitle:  Source of ePages Developer Portal
+  live:      https://developer.epages.com/
+  source:    https://github.com/ePages-de/epages-docs
+  thumbnail: dev-portal.png
 
 ####
 #  meetups, events, camps
