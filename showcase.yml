@@ -268,6 +268,13 @@
   live:      https://developer.epages.com/
   source:    https://github.com/ePages-de/epages-docs
   thumbnail: dev-portal.png
+  
+- title:     Pi Kwadraat
+  subtitle:  A Belgian art gallery specialised in ceramics
+  live:      http://pikwadraat.be/
+  source:    https://github.com/croketephji/pikwadraat
+  thumbnail: pikwadraat.png
+  tags:      [art, ceramics, dutch, belgium]
 
 ####
 #  meetups, events, camps
