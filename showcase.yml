@@ -268,7 +268,7 @@
   live:      https://developer.epages.com/
   source:    https://github.com/ePages-de/epages-docs
   thumbnail: dev-portal.png
-  
+
 - title:     Pi Kwadraat
   subtitle:  A Belgian art gallery specialised in ceramics
   live:      http://pikwadraat.be/
@@ -369,6 +369,12 @@
   live:      http://cop21.okfnlabs.org
   source:    https://github.com/okfn/cop21
   thumbnail: cop21.png
+
+- title:     GuitarLessons.org
+  subtitle:  Free guitar lessons and gear reviews.
+  live:      https://www.guitarlessons.org/
+  source:    https://github.com/Jholloway12/beautiful-guitar-lessons
+  thumbnail: guitar-lessons.png
 
 
 - title:     Chip Shop
