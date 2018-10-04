@@ -1,6 +1,13 @@
 #####################################################
 # Jekyll (Static Site) Showcase - Add Your Site!
 
+- title:     William Oliveira Blog
+  subtitle:  A blog about software development, career, communities and more.
+  live:      https://woliveiras.com.br/
+  source:    https://github.com/woliveiras/woliveiras.github.io
+  thumbnail: william-oliveira.png
+  tags:      [programming, communities, blog, person]
+
 - title:     Open GSA
   subtitle:  GSA Open First Developer Portal
   live:      https://open.gsa.gov/
