@@ -289,6 +289,13 @@
   source:    https://github.com/croketephji/pikwadraat
   thumbnail: pikwadraat.png
   tags:      [art, ceramics, dutch, belgium]
+  
+- title:     Dave Mullen Jnr
+  subtitle:  Designer / Photographer portfolio
+  live:      https://davemullenjnr.co.uk
+  source:    https://github.com/davemullenjnr/davemullenjnr.github.io
+  thumbnail: dave-mullen-jnr.png
+  tags:      [design, photography]
 
 ####
 #  meetups, events, camps
@@ -428,10 +435,3 @@
   source:    https://github.com/Gogul09/Gogul09.github.io
   thumbnail: gogul09.png
   tags:      [vlsi, physical design, static timing analysis, deep learning, machine learning, computer vision, programming]
-  
-- title:     Dave Mullen Jnr
-  subtitle:  Designer / Photographer portfolio
-  live:      https://davemullenjnr.co.uk
-  source:    https://github.com/davemullenjnr/davemullenjnr.github.io
-  thumbnail: dave-mullen-jnr.png
-  tags:      [design, photography]
