@@ -289,6 +289,13 @@
   source:    https://github.com/croketephji/pikwadraat
   thumbnail: pikwadraat.png
   tags:      [art, ceramics, dutch, belgium]
+  
+- title:     Dave Mullen Jnr
+  subtitle:  Designer / Photographer portfolio
+  live:      https://davemullenjnr.co.uk
+  source:    https://github.com/davemullenjnr/davemullenjnr.github.io
+  thumbnail: dave-mullen-jnr.png
+  tags:      [design, photography, portfolio]
 
 ####
 #  meetups, events, camps
