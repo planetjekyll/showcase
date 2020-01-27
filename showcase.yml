@@ -1,6 +1,12 @@
 #####################################################
 # Jekyll (Static Site) Showcase - Add Your Site!
 
+- title:     Raul Dipeas's blog
+  subtitle:  My personal blog about Linux and Xubuntu
+  live:      https://blog.rauldipeas.tk
+  source:    https://github.com/rauldipeas/rauldipeas-blog
+  thumbnail: rauldipeas-blog.png
+
 - title:     Jekyll URL Shortener
   subtitle:  This is a template repository for making URL Shorteners with Jekyll and GitHub Pages. Create short URLs that can be easily shared, tweeted, or emailed to friends. Fork this repo to get started. ✂️🔗
   live:      https://hlaueriksson.github.io/jekyll-url-shortener/
