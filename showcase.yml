@@ -419,6 +419,13 @@
   source:    https://github.com/GregariousMammal/Chip-Shop
   thumbnail: chipshopgame.png
   tags:      [board game, print]
+  
+- title:     Taller Veganista
+  subtitle:  "Veganismo sin miedo"
+  live:      https://tallerveganista.com/
+  source:    https://github.com/tallerveganista/tallerveganista.github.io
+  thumbnail: taller-veganista.png
+  tags:      [animal rights, education, lessons, design, illustration]
 
 ##########
 # music, audio
@@ -457,10 +464,4 @@
   source:    https://github.com/devsourceid/devsourceid.github.io
   thumbnail: iamvue.png
   tags:      [blog, vuejs, tutorial, guide]
-  
-  - title:   Taller Veganista
-  subtitle:  Veganismo sin miedo
-  live:      https://tallerveganista.com/
-  source:    https://github.com/tallerveganista/tallerveganista.github.io
-  thumbnail: taller-veganista.png
-  tags:      [animal rights, education, lessons, design, illustration]
+
