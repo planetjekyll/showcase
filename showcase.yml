@@ -1,6 +1,17 @@
 #####################################################
 # Jekyll (Static Site) Showcase - Add Your Site!
 
+- title:     "Pécs2010"
+  subtitle:  Travel blogs about Pécs, Hungary
+  live:      https://www.pecs2010.hu/
+  thumbnail: pecs2010.jpg
+  tags:      [blog, travel]
+
+- title:     aWh
+  subtitle:  aWh - webhosting and domain registration.
+  live:      https://www.awh.hu/
+  thumbnail: awh.jpg
+
 - title:     Tommi Space
   subtitle:  The online version of Tommi Boom's mind
   live:      https://tommi.space
