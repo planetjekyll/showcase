@@ -1,6 +1,13 @@
 #####################################################
 # Jekyll (Static Site) Showcase - Add Your Site!
 
+- title:     Arman's Tech Blog
+  subtitle:  Arman's notes on coding, Software Engineering, AI and Technology
+  live:      https://www.armannotes.com
+  source:    https://github.com/armannaj/armannaj.github.io
+  thumbnail: armannotes.png
+  tags:      [programming, blog, person, ai, ml]
+
 - title:     Tommi Space
   subtitle:  The online version of Tommi Boom's mind
   live:      https://tommi.space
